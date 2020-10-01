@@ -35,6 +35,10 @@
   --color-theme-highlight: #{get-color('highlight')};
   --color-theme-highlight-block: #{get-color('slate')};
   --color-theme-feature-text: #{get-color('highlight')};
+
+  .logo__fill {
+    fill: white;
+  }
 }
 
 body {
